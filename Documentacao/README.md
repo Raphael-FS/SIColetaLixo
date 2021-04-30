@@ -1,1 +1,2 @@
-# A pasta foi criada para guardar documentos de desenhos do projeto de aplicação e banco de dados. 
+# A criação dessa pasta tem o intuito de guardar desenhos do projetos e documentação de banco de dados.
+
